@@ -1,0 +1,8 @@
+
+numpy
+Django
+djangorestframework 
+gunicorn
+#psycopg2 
+#django-heroku 
+sklearn 
